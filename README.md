@@ -2,9 +2,9 @@
 
 Facial key-points are relevant for a variety of tasks, such as face filters, emotion recognition, pose recognition, and so on. So if you’re onto these projects, keep reading!
 
-In this project, facial key-points (also called facial landmarks) are the small magenta dots shown on each of the faces in the image below. In each training and test image, there is a single face and 68 key-points, with coordinates (x, y), for that face. These key-points mark important areas of the face: the eyes, corners of the mouth, the nose, etc.
+In this project, facial key-points (also called facial landmarks) are the small red dots shown on each of the faces in the image below. In each training and test image, there is a single face and 68 key-points, with coordinates (x, y), for that face. These key-points mark important areas of the face: the eyes, corners of the mouth, the nose, etc.
 
-Apart from just locating the facial key points, I've applied the concept apply filters in accordance with these generated keypoints.
+Apart from just locating the facial key points, I've applied this concept to adding filters to an image in accordance with these generated keypoints.
 
 <p align="center">
   <img src="extras/og.png" width="350" title="hover text">

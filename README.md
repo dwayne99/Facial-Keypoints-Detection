@@ -18,7 +18,7 @@ The project implementation is done using the Pytorch Framework.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pip.
 
 ```bash
 pip install opencv-python

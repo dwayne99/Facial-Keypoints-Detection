@@ -1,4 +1,4 @@
-# Facial Keypoint Detection
+# Facial Keypoints Detection
 
 Facial key-points are relevant for a variety of tasks, such as face filters, emotion recognition, pose recognition, and so on. So if you’re onto these projects, keep reading!
 
